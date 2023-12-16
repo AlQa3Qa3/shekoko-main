@@ -2,13 +2,13 @@ openapi: 3.0.3
 info:
   title: Swagger Petstore - OpenAPI 3.0
   description: |
-    This is a sample Pet Store Server based on the OpenAPI 3.0 specification. You can
-  termsOfService: http://swagger.io/terms/
+    This is a sample PoC for chain self html and clickjacling for get user credintal's
+  termsOfService: https://github.com/AlQa3Qa3/shekoko-main/
 
   license:
-    name: Apache 2.0
-    url: http://www.apache.org/licenses/LICENSE-2.0.html
-  version: 1.0.11
+    name: AlQa3Qa3 2.0
+    url: https://medium.com/@AlQa3Qa3_M0X0101
+  version: 1.0
 
 servers:
   - url: https://swagger.free.beeceptor.com  # Specify your target endpoint here
