@@ -1,6 +1,6 @@
 openapi: 3.0.3
 info:
-  title: Swagger Petstore - OpenAPI 3.0
+  title: PoC for chain self html and clickjacling for get user credintal's
   description: |
     This is a sample PoC for chain self html and clickjacling for get user credintal's
   termsOfService: https://github.com/AlQa3Qa3/shekoko-main/
